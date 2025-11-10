@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csv2Json", "Csv2Json\Csv2Json.csproj", "{7CAC29A7-29FF-46A1-814F-45C8E67EF5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csv2json_tests", "csv2json_tests\csv2json_tests.csproj", "{47EDB7E8-9A86-4136-BA1B-9D27D2972A03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CAC29A7-29FF-46A1-814F-45C8E67EF5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAC29A7-29FF-46A1-814F-45C8E67EF5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAC29A7-29FF-46A1-814F-45C8E67EF5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAC29A7-29FF-46A1-814F-45C8E67EF5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EDB7E8-9A86-4136-BA1B-9D27D2972A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EDB7E8-9A86-4136-BA1B-9D27D2972A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EDB7E8-9A86-4136-BA1B-9D27D2972A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EDB7E8-9A86-4136-BA1B-9D27D2972A03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
