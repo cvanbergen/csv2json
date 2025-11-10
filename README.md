@@ -2,6 +2,8 @@
 
 The `Csv2Json` library provides methods to convert CSV (Comma-Separated Values) content into JSON format in C#. This utility class can handle various options and scenarios while parsing the input data. The following sections describe its usage, features, and code structure.
 
+[![Build status](https://ci.appveyor.com/api/projects/status/kax6dood5b4i53jp/branch/main?svg=true)](https://ci.appveyor.com/project/cvanbergen/csv2json/branch/main)
+
 ## Dependencies
 
 To use this library, make sure you have installed or referenced the `System.Text` and `System.Text.Json` namespaces from .NET 5.0+ in your project.
